@@ -2,10 +2,12 @@
 .DS_Store
 
 # Large files
+data/
 sim_data/
 logs/
 plots/
 venv/
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
