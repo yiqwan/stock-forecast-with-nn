@@ -87,3 +87,7 @@ For macOS Users: Due to the lack of NVIDIA GPU support, it's recommended to rema
 ### Running the Project
 
 To run the project, open the model.ipynb notebook in Jupyter Notebook or JupyterLab and follow the instructions within.
+
+Add the data sources in the `data` folder for the models to run on.
+
+You need to create a `plots` folder for the models to save the figures in.
